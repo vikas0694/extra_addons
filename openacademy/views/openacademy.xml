@@ -26,5 +26,13 @@
         <menuitem id="session_menu" name="Sessions"
                   parent="openacademy_menu"
                   action="session_list_action"/>
-                  
+
+                   <sheet>
+                        <group>
+                            <field name="name"/>
+                            <field name="responsible_id"/>
+                        </group>
+                        <notebook>
+                            <page string="Description">
+
 </odoo>
