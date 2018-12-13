@@ -9,7 +9,13 @@
     'description': """
         Long description of module's purpose
     """,
-
+ 'data': [
+        # 'security/ir.model.access.csv',
+        'templates.xml',
+        'views/openacademy.xml',
+    ],
+    # only loaded in demonstration mode
+    'demo': [~ 
     'author': "My Company",
     'website': "http://www.yourcompany.com",
 
