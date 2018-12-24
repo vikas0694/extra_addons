@@ -11,7 +11,7 @@ Can have multiple lines
             <field name="name">Course 1</field>
         </record>
         <record model="openacademy.course" id="course2">
-            <field name="name">Course 2</field>
+            <field name="name">Course 2</field> 
             <field name="description">Course 2's description</field>
         </record>
  
