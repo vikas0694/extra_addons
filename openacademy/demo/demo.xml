@@ -6,7 +6,7 @@
 
 Can have multiple lines
             </field> 
-        </record>
+        </record> 
         <record model="openacademy.course" id="course1">
             <field name="name">Course 1</field>
         </record>
