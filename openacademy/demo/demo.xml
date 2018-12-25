@@ -5,7 +5,7 @@
             <field name="description">Course 0's description
 
 Can have multiple lines
-            </field>
+            </field> 
         </record>
         <record model="openacademy.course" id="course1">
             <field name="name">Course 1</field>
